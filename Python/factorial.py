@@ -1,4 +1,4 @@
-def factorial (numero):
+def factorial (numero)//paquequieresabereso!!:
   print numero
   if numero==0:
     return 1
